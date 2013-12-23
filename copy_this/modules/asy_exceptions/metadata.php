@@ -23,7 +23,7 @@ $aModule = array(
         'de' => 'Verschickt beim Auftreten einer Exception den Fehlertext per Email an eine konfigurierte Email-Adresse',
         'en' => 'Sends email with log message to recipient',
     ),
-    'version'      => '1.0',
+    'version'      => '1.1',
     'author'       => 'Alpha-Sys',
     'email'        => 'fabian.kunkler@alpha-sys.de',
     'url'          => 'http://www.alpha-sys.de',

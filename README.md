@@ -2,10 +2,10 @@
 asy_exceptions
 
 ### Version ###
-1.0
+1.1
 
 ### Oxid-Version ###
-4.6.x - 4.7.x
+4.6.x - 4.8.x
 
 ### Author ###
 Alpha-Sys
